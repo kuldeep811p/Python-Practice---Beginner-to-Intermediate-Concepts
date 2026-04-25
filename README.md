@@ -30,3 +30,8 @@ Topics covered with definitions & examples:
 2. Ensure Python 3.x is installed
 3. Run any topic file independently
 4. Experiment by modifying the code examples
+
+
+## 📖 PDF Reference Guide
+
+Can't grasp a concept from code alone? Download the companion PDF guide for detailed theoretical explanations, visual diagrams, and additional practice problems. Use it as your safety net whenever you need deeper clarity on any topic covered in this repository.
